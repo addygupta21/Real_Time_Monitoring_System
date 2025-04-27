@@ -35,7 +35,7 @@ I recently completed a project focused on creating a real-time monitoring system
     - Collects real-time data on processed events.
 
 - **Grafana Dashboards**:
-    - Visualizes metrics collected by Prometheus.
+    - Visualizes metrics collected by Prometheus
     - Provides real-time insights into user interactions, including "Enroll Now" and "Buy Now" clicks.
 
 ![Alt text](Producer_Service.png "Producer Service")
